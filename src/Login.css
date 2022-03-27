@@ -1,0 +1,53 @@
+.box {
+    margin: 70px;
+    padding: 50px;
+    background-color: #E9ECFA;
+    border-radius: 30px;
+}
+.mainflex {
+    display: flex;
+    justify-items: center;
+
+}
+.rightdata {
+    display: flex;
+    flex-direction:column;
+    flex: 1;
+    align-items: center;
+    justify-items: center;
+
+}
+.inputs {
+    width: 100%;
+}
+.name {
+    padding: 15px;
+}
+.phn{
+    padding: 15px;
+}
+.txt {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.pass {
+    padding: 15px
+}
+.btn {
+    padding: 15px
+}
+.gbtn {
+    padding: 15px
+}
+.txtflex {
+    display: flex;
+
+}
+.gtxt {
+    padding: 15px;
+    justify-content:left;
+    padding-top: 30px;
+
+
+
+}
